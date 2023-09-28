@@ -1,0 +1,81 @@
+/* Oma nimi vihreäksi */
+#nimi {
+    color: green;
+}
+
+/* Numerot eri väreillä ja koilla */
+#numero1 {
+    color: red;
+    font-size: 12px;
+}
+
+#numero2 {
+    color: blue;
+    font-size: 14px;
+}
+
+#numero3 {
+    color: orange;
+    font-size: 16px;
+}
+
+#numero4 {
+    color: purple;
+    font-size: 18px;
+}
+
+#numero5 {
+    color: teal;
+    font-size: 20px;
+}
+
+#numero6 {
+    color: brown;
+    font-size: 22px;
+}
+
+#numero7 {
+    color: magenta;
+    font-size: 24px;
+}
+
+#numero8 {
+    color: cyan;
+    font-size: 26px;
+}
+
+#numero9 {
+    color: darkgreen;
+    font-size: 28px;
+}
+
+#numero10 {
+    color: darkblue;
+    font-size: 30px;
+}
+
+/* Oma nimi Google Fontsilla */
+#nimi2 {
+    font-family: 'Kaikki tässä voi olla omaa valintaasi', sans-serif;
+}
+
+/* Tekstiä eri fonteilla lorem.com:sta */
+#lorem1 {
+    font-family: Arial, sans-serif;
+}
+
+#lorem2 {
+    font-family: Times New Roman, serif;
+}
+
+#lorem3 {
+    font-family: Helvetica, sans-serif;
+}
+
+#lorem4 {
+    font-family: Georgia, serif;
+}
+
+#lorem5 {
+    font-family: Verdana, sans-serif;
+}
